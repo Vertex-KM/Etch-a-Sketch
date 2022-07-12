@@ -1,0 +1,23 @@
+#container {
+  margin-left: 10px;
+
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  border: 1px solid rgb(0, 0, 0);
+  min-width: 10px;
+  min-height: 10px;
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+  }
+
+#btn { 
+  margin: 10px;
+  background-color:aqua;
+
+}
